@@ -17,10 +17,7 @@ colorscheme catppuccin
 " syntax highlight
 syntax on 
 
-" open new tab
-map <C-t> :tabnew<CR>
-
-" close current tab
-map <C-w> :tabclose<CR>
+" open NERDTree
+nnoremap <C-n> :NERDTree<CR>
 
 let NERDTreeShowHidden=1

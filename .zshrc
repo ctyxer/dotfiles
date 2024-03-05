@@ -11,3 +11,4 @@ alias ls='ls --color=auto'
 alias art='php artisan'
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
+
