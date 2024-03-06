@@ -1,6 +1,6 @@
 # ctyxer`s dotfiles
 
-recomended using **Catppuccin Mocha** theme
+Default theme: **[Catppuccin](https://github.com/catppuccin) Mocha**
 
 This repository contains configuration files for:
  - Neovim
@@ -12,4 +12,6 @@ and also:
 
 ## Arch dependencies
 
-> yay -S catppuccin-gtk-theme-mocha zsh ttf-liberation ttf-droid noto-fonts noto-fonts-extra noto-fonts-cjk noto-fonts-emoji ttf-dejavu firefox bluez telegram-desktop neovim
+``` zsh 
+yay -S catppuccin-gtk-theme-mocha zsh ttf-liberation ttf-droid noto-fonts noto-fonts-extra noto-fonts-cjk noto-fonts-emoji ttf-dejavu firefox bluez telegram-desktop neovim
+```
